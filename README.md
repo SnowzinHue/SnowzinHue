@@ -5,7 +5,7 @@ Olá pode me chamar de SnowzinHue ou Snowzin.
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SnowzinHue&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-</style>
+
 <br>. 👨‍💻Apenas um programador iniciante.👨‍💻</br>
 <br>. 🏫Estudo em uma escola com tecnico integrado.🏫</br>
 <br>. 💻Atualmente aprendendo a mexer com html, java, c++ e entre outros...💻</br>

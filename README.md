@@ -6,7 +6,7 @@ Olá pode me chamar de SnowzinHue ou Snowzin.
 
 <img id="savage" src="https://media1.tenor.com/images/7d25e841b54bdf540af8e307d69db11d/tenor.gif?itemid=15986252">
 
-atualmente desenvolvendo o site a seguir <a  href="https://discord.gg/vVVa7GJ2bc"> SnowGames </a>
+atualmente desenvolvendo o site a seguir <a  href="snowgames.netlify.app"> SnowGames </a>
 
 <!---
 SnowzinHue/SnowzinHue is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

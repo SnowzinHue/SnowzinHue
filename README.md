@@ -1,34 +1,9 @@
 Olá pode me chamar de SnowzinHue ou Snowzin.
-<style>  
-  @keyframes example {
-
-    from {
-    color: #6666ff;
-  }
-  10% {
-    color: #0099ff;
-  }
-  25% {
-    color: #1606f8;
-  }
-  35% {
-    color: #eeff00;
-  }
-  50% {
-    color: #00ff00;
-  }
-  75% {
-    color: #ff3399;
-  }
-  100% {
-    color: #6666ff;
-  }
-} 
-br {
-  text-align: center;
-  font-size: 32px;
-  animation: example 6s linear 0s infinite;
-   }
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnowzinHue&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SnowzinHue&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 </style>
 <br>. 👨‍💻Apenas um programador iniciante.👨‍💻</br>

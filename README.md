@@ -1,4 +1,4 @@
-Olá pode me chamar de SnowzinHue ou Snowzin.
+Olá pode me chamar de Danilo ou Dan.
 <div>
 <a href="https://github.com/SnowzinHue">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnowzinHue&layout=compact&langs_count=7&theme=dracula"/>

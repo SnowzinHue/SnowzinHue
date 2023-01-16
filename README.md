@@ -1,8 +1,8 @@
 Olá pode me chamar de Danilo ou Dan.
 <div>
 <a href="https://github.com/SnowzinHue">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snowzinhue&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=snowzinhue&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<br><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snowzinhue&layout=compact&langs_count=7&theme=dracula"/></br>
+<br><img height="180em" src="https://github-readme-stats.vercel.app/api?username=snowzinhue&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></br>
 </div>
 
 

@@ -13,7 +13,7 @@ Olá pode me chamar de Danilo ou Dan.
 <img width="1000px" height="350px" id="capivara" src="https://media1.tenor.com/images/7d25e841b54bdf540af8e307d69db11d/tenor.gif?itemid=15986252">
 
 Caso queira manter contato.
-<div style: "display:inline-block" border-radius="5px">
+<div style: "display:inline-block" border-radius:"5px">
 <a href = "mailto:daniboy.tor4@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href = "https://discord.gg/TEq7t95KYk"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>  
 </div></center>

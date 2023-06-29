@@ -5,10 +5,13 @@ Olá pode me chamar de Danilo ou Dan.
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=snowzinhue&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+##
 
 <br>. 👨‍💻Apenas um programador iniciante.👨‍💻</br>
 <br>. 🏫Estudo em uma escola com tecnico integrado.🏫</br>
 <br>. 💻Atualmente aprendendo a mexer com html, java, c++ e entre outros...💻</br>
+
+##
 
 <img width="1000px" height="350px" id="capivara" src="https://media1.tenor.com/images/7d25e841b54bdf540af8e307d69db11d/tenor.gif?itemid=15986252">
 

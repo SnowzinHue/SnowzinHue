@@ -7,7 +7,7 @@ Olá pode me chamar de Danilo ou Dan.
 
 ##
 
-<br>. 👨‍💻Apenas um programador iniciante.👨‍💻</br>
+<br>. 👨‍💻Apenas um desenvolvedor iniciante.👨‍💻</br>
 <br>. 🏫Estudo em uma escola com tecnico integrado.🏫</br>
 <br>. 💻Atualmente aprendendo a mexer com html, java, c++ e entre outros...💻</br>
 

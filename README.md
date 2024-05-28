@@ -13,7 +13,7 @@ Olá pode me chamar de Danilo ou Dan.
 
 ##
 
-<img width="1000px" height="350px" id="capivara" src="https://media1.tenor.com/images/7d25e841b54bdf540af8e307d69db11d/tenor.gif?itemid=15986252">
+<img width="750px" height="350px" id="capivara" src="https://media1.tenor.com/m/CzdMW7wnLn8AAAAC/coding.gif">
 
 Caso queira manter contato.
 
